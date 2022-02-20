@@ -20,9 +20,6 @@ End the program.
 
 ## PROGRAM:
 ```
-developed by:Jeeva Abishake
-roll no. :212221240018
-
 import pandas as pd
 df = pd.read_csv('data.csv')
 print(df.head(10))
